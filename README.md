@@ -1,5 +1,5 @@
 # Hi there , I'm janith👋
-<h2 align="center">👋Let's innovate together! 💻✨</h2>
+<h2 align="center">👋Work less. be SMART. Work Hard, to be Specific💻✨</h2>
 <p align="center"></p>
 <div align="center" width="50%">
   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=KMjanith&show_icons=true&theme=radical" />

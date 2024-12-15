@@ -20,6 +20,6 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,dart,eclipse,figma,firebase,flutter,github,gradle,html,ai,java,mongodb,mysql,nodejs,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,dart,go,eclipse,figma,firebase,flutter,github,gradle,html,ai,java,mongodb,mysql,nodejs,py,vscode,kubernetes,docker,ansible" />
   </a>
 </p>
